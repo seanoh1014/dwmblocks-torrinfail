@@ -11,7 +11,7 @@ static const Block blocks[] = {
 
 	    {"^c#50fa7b^^b#44475a^", "~/nixos-files/home-manager/pkgs/statusbar/battery",              5,                    12},
 
-	    {"^c#8be9fd^^b#44475a^   ", "~/nixos-files/home-manager/pkgs/statusbar/clock",              60,                   6},
+	    {"^c#8be9fd^^b#44475a^  󰃵 ", "~/nixos-files/home-manager/pkgs/statusbar/clock",              60,                   6},
 
  	    //{"",                   "~/Programs/suckless/statusbar/update_loop",              0,                   4},
 };
